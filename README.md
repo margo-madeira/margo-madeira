@@ -1,16 +1,19 @@
-### Hi there 👋
+## Привет!
 
-<!--
-**margo-madeira/margo-madeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Маргарита Свечникова, Frontend-разработчик.
 
-Here are some ideas to get you started:
+## Портфолио: https://github.com/margo-madeira/portfolio/blob/main/README.md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ключевые навыки:
+
+-HTML
+- CSS (Курсовая работа: https://github.com/margo-madeira/travel_blog)
+- JavaScript (Домашние работы: https://github.com/margo-madeira/bhj-homeworks / https://github.com/margo-madeira/bjs-2-homeworks)
+- GIT
+
+## Сертификаты Нетологии
+
+
+
+
+
