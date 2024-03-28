@@ -13,6 +13,8 @@ https://github.com/margo-madeira/portfolio/blob/main/README.md
 - GIT
 
 ## Сертификаты Нетологии
+https://github.com/margo-madeira/certificates/tree/main
+
 
 
 
