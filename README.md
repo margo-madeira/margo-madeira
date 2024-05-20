@@ -16,6 +16,10 @@ https://github.com/margo-madeira/portfolio/blob/main/README.md
 - BEM
 - GIT
 - API
+- TypeScript
+- React
+- Webpack
+- Jest
 - Photoshop
 - Figma
 
